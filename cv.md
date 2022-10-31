@@ -13,11 +13,9 @@ Aspiring full stack software engineer.
 </div>
 
 
-## Currently
-Tulane Bachelor's of Science candidate in Computer Science and Economics. Incoming Technology Analyst to Morgan Stanley, after expected graduation in 2022.
 
 ## Education
-`2018 - now`
+`2018 - 2022`
 __Tulane University, New Orleans LA__
 - Cumulative GPA: 3.55/4.00
 - Computer Science GPA: 3.67/4.00
@@ -30,12 +28,10 @@ __Buckingham Browne & Nichols School, Cambridge, MA__
 - SAT Subject Test Biology: 730 (taken 2015)
 
 ## Awards
-
 `2021`
 Grace Hopper Celebration Grant Recipient & Cohort Lead Grant Recipient, *Newcomb Institute*, Remote
 `2020`
 Grace Hopper Celebration Grant Recipient, *Newcomb Institute*, Remote
-
 
 
 ## Research
@@ -44,19 +40,27 @@ Grace Hopper Celebration Grant Recipient, *Newcomb Institute*, Remote
 
 
 ## Employment
+`Nov 2022 - now`
+__Associate Java Developer__, Morgan Stanley
 
-`Fall 2022`
-__Incoming Technology Analyst__, Morgan Stanley
-- Application development
+`Aug 2022 - Nov 2022`
+__Technology Analyst__, Morgan Stanley
+- Completing 15-week training on the program's Application Development Track
+- Includes an orientation to the Firm, intensive technology training, introduction to proprietary technologies, and functional training culminating in a four-week group project
+- Topics include: Operating Systems, C++, Java, Scala, C#, Database Topics (SQL), Concurrency, Building Distributed Systems, and Web Applications (Angular)
 
 `Spring 2022`
 __Software Intern__, Junum
+- Built and executed load testing scripts in Python using Locust
+- Gained experience with running and debugging Web Applications using Spring Boot, PostgreSQL, & ReactJS
+- Assisted with DevOps by writing a custom Git Hook to help enforce HIPAA compliance when committing Jupyter Notebooks to Github
+- Integrated Swagger to assist in documenting existing RESTful Spring Boot APIs
 
-`2021 - now`
+`2021 - 2022`
 __IT/CS consultant__, Tulane University
 - Advised Dr Patrick Button on technical difficulties with study methodology
 
-`2021 - now`
+`2021 - 2022`
 __Research assistant to Dr Carola Wenk__, Tulane University
 - Assisted Dr. Carola Wenk with her research in computational geometry
 - Focus in trajectory analysis working on data analysis and algorithm design
@@ -112,7 +116,7 @@ __SSE Peer Mentor__, Tulane University School of Science and Engineering
 Calculus I & II, Comparative Economic Systems, Computer Science Capstone Course, Database Fundamentals, Econometrics, Game Theory, Intro and Intermediate Micro/Macroeconomics, Intro to Algorithms, Intro to Artificial Intelligence, Intro to Computer Science I & II, Intro to Data Science, Intro to Discrete Mathematics, Intro to Machine Learning, Intro to Systems and Networking, Labor Economics, Public Finance & Public Policy
 
 ## Skills: 
-Agile Scrum, Git,  GCP, AWS, Docker, APIs, Java, Python, C/C++, HTML, CSS, JavaScript, SQL, Web Design, Leadership, Teaching, Mentorship,  Environmental and Social Justice Advocacy, Machine Learning & Artficial Intelligence
+Agile Scrum, Git, GCP, AWS, Docker, APIs, Java, Python, Scala, C/C++, HTML, CSS, JavaScript, SQL, Django, Angular, Web Design, Leadership, Teaching, Mentorship,  Environmental and Social Justice Advocacy, Machine Learning & Artficial Intelligence
 
 
 
