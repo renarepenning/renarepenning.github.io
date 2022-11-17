@@ -45,8 +45,8 @@ __Associate Java Developer__, Morgan Stanley
 
 `Aug 2022 - Nov 2022`
 __Technology Analyst__, Morgan Stanley
-- Completing 15-week training on the program's Application Development Track
-- Includes an orientation to the Firm, intensive technology training, introduction to proprietary technologies, and functional training culminating in a four-week group project
+- Completed 15-week training on the program's Application Development Track
+- Comprised of an orientation to the Firm, intensive technology training, introduction to proprietary technologies, and functional training culminating in a four-week group project
 - Topics include: Operating Systems, C++, Java, Scala, C#, Database Topics (SQL), Concurrency, Building Distributed Systems, and Web Applications (Angular)
 
 `Spring 2022`
